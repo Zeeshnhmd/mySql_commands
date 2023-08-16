@@ -34,3 +34,19 @@ ALTER DATABASE myDB READ ONLY = 0;
 ```
 
 </details>
+
+<details open>
+<summary><h3> Creating table and columns</h3></summary>
+<br/>
+
+```sql
+CREATE TABLE employees (
+  employee_id INT,
+  first_name VARCHAR(50),
+  last_name VARCHAR(50),
+  hourly_pay DECIMAL(5,2),
+  hire_date DATE
+);
+```
+
+</details>
