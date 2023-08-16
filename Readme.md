@@ -1,5 +1,5 @@
 <details open>
-<summary><h1>CREATE USE DELETE ENABLE/DISABLE DATABASE</h1></summary>
+<summary><h3>CREATE USE DELETE ENABLE/DISABLE DATABASE</h3></summary>
 <br/>
 Create a Database
 
