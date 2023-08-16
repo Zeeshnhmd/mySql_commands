@@ -23,3 +23,9 @@ Make the database READ ONLY
 ```sql
 ALTER DATABASE myDB READ ONLY = 1;
 ```
+
+Disable database READ ONLY
+
+```sql
+ALTER DATABASE myDB READ ONLY = 0;
+```
