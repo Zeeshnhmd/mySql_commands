@@ -39,6 +39,8 @@ ALTER DATABASE myDB READ ONLY = 0;
 <summary><h3> Creating table and columns</h3></summary>
 <br/>
 
+Creating a table
+
 ```sql
 CREATE TABLE employees (
   employee_id INT,
