@@ -11,3 +11,9 @@ Use the create Database
 ```sql
 USE myDB;
 ```
+
+Remove the database
+
+```sql
+DROP DATABASE myDB;
+```
