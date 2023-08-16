@@ -49,4 +49,8 @@ CREATE TABLE employees (
 );
 ```
 
+- employees is table name.
+- INT, VARCHAR, DECIMAL, DATA this are DATATYPES.
+- VARCHAR(50) means only 50 characters are allowed.
+- DECIMAL (5,2) first value 5 means amount digits and 2 means two decimal places.
 </details>
