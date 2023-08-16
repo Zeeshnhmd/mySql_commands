@@ -1,3 +1,5 @@
+# CREATE USE DELETE ENABLE/DISABLE DATABASE
+
 Create a Database
 
 ```sql
@@ -12,7 +14,7 @@ Use the create Database
 USE myDB;
 ```
 
-Remove the database
+Delete the database
 
 ```sql
 DROP DATABASE myDB;
