@@ -17,3 +17,9 @@ Remove the database
 ```sql
 DROP DATABASE myDB;
 ```
+
+Make the database READ ONLY
+
+```sql
+ALTER DATABASE myDB READ ONLY = 1;
+```
