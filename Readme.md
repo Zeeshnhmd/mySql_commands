@@ -1,6 +1,6 @@
 <details open>
-<summary># CREATE USE DELETE ENABLE/DISABLE DATABASE</summary>
-
+<summary><h1>CREATE USE DELETE ENABLE/DISABLE DATABASE</h1></summary>
+<br/>
 Create a Database
 
 ```sql
