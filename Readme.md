@@ -1,4 +1,5 @@
-# CREATE USE DELETE ENABLE/DISABLE DATABASE
+<details open>
+<summary># CREATE USE DELETE ENABLE/DISABLE DATABASE</summary>
 
 Create a Database
 
@@ -31,3 +32,5 @@ Disable database READ ONLY
 ```sql
 ALTER DATABASE myDB READ ONLY = 0;
 ```
+
+</details>
